@@ -1,3 +1,4 @@
+//ulah interaktif game 2048
 document.addEventListener("DOMContentLoaded", () => {
   const gridDisplay = document.querySelector(".grid");
   const scoreDisplay = document.getElementById("score");
